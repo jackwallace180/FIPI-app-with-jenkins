@@ -63,3 +63,4 @@ test 2
 test 3 it works?
 test 4 image 2
 test5 with var/jenkins
+test with instance stopped
