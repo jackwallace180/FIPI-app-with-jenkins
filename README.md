@@ -60,3 +60,4 @@ The test for posts will fail ( as expected ) if the database has not been correc
 
 test 1
 test 2
+test 3 it works?
