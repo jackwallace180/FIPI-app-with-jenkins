@@ -64,3 +64,4 @@ test 3 it works?
 test 4 image 2
 test5 with var/jenkins
 test with instance stopped
+test 6 test 7 please work now 
